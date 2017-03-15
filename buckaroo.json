@@ -1,0 +1,7 @@
+{
+  "name": "websocketpp",
+  "dependencies": {
+    "boost-thread": "1.63.0",
+    "boost-asio": "1.63.0"
+  }
+}

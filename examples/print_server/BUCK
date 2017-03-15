@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'print_server',
+  srcs = [
+    'print_server.cpp',
+  ],
+  deps = [
+    '//:websocketpp',
+  ],
+)
